@@ -2,5 +2,5 @@ Hello readme
 hi
 hi
 ji
-Creating a new branch is quick AND simple.
+Creating a new branch is quick Bug simple.
 2017/06/10 12:23:44 127.0.0.1 buildDate=20161122&buildNumber=2016.3.4%20Build%20IU-163.12024.16&clientVersion=4&hostName=DESKTOP-VLRA3UJ&machineId=fb4e68f7-31c5-475d-925c-af20eb98a35a&productCode=49c202d4-ac56-452b-bb84-735056242fb3&productFamilyId=49c202d4-ac56-452b-bb84-735056242fb3&salt=1497068624758&secure=false&userName=ydy&version=2016300&versionNumber=2016300
